@@ -86,8 +86,21 @@ Rta//
 
 5. Modifique la coleción de POSTMAN con NEWMAN de tal forma que pueda enviar 10 peticiones concurrentes. Verifique los resultados y presente un informe.
 
+Rta//
+
+![](images/Parte0/5.1.PNG)
+
+![](images/Parte0/5.2.PNG)
+
 6. Cree una nueva Function que resuelva el problema de Fibonacci pero esta vez utilice un enfoque recursivo con memorización. Pruebe la función varias veces, después no haga nada por al menos 5 minutos. Pruebe la función de nuevo con los valores anteriores. ¿Cuál es el comportamiento?.
 
+Rta//
+
+![](images/Parte0/6.1.PNG)
+
+![](images/Parte0/6.2.PNG)
+
+![](images/Parte0/6.3.PNG)
 
 **Preguntas**
 
